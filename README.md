@@ -16,7 +16,13 @@
 
 **把预编译的项目目录拷贝到当前目录下**  
 运行  *Run.bat 项目目录*  
-例如  *`Run.bat CuraEngine-4.6.0`*
+
+例如  *`Run.bat CuraEngine-4.6.0`*  
+
+>*注意Git的换行符处理*  
+>*.bat和.sh文件换行符可能被替换*  
+>*.bat的换行符为CRLF*  
+>*.sh的换行符为LF*
 
 ## 结果
 
